@@ -1,6 +1,6 @@
 # Welcome to the Olzie Development Organization :wave:
 
-This is the official organization for the [Olzie Development](https://olziedev.com). Here you can find all the repositories that are currently being developed by the Olzie team.
+This is the official organization for the [Olzie Developer](https://olziedev.com). Here you can find all the repositories that are currently being developed by the Olzie team.
 
 ### What is Olzie Development?
 
